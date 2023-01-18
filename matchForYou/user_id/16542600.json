@@ -1,6 +1,5 @@
 {
-	"data": [{
-		"wines": [{
+		"data": [{
 				"wine_name": "Domaine Saint Roch (Denis Bardon)",
 				"region": "Touraine, France",
 				"subtitle": "Les Demoiselles Sauvignon 2020",
@@ -34,5 +33,4 @@
 				"ratingAmount": 585
 			}
 		]
-	}]
 }
