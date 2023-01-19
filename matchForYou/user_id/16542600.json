@@ -20,17 +20,6 @@
 				"description": "Great value, classic French Sauvignon Blanc from husband and wife team Anne-Sophie and Frederic Meurgey-Penet at their small estate in Oisly. Vinifed entirely in stainless steel, this is aromatic, floral and lively with lots of crisp citrus and gooseberry fruit.",
 				"rating": 3.7,
 				"ratingAmount": 1547
-			},
-			{
-				"wine_name": "Domaine de Marcé",
-				"region": "Touraine, France",
-				"subtitle": "Coulée Galante Touraine Oisly",
-				"original_price": 14.99,
-				"reduced_price": 11.99,
-				"image": "https://i.ibb.co/sPsJrQW/chicken-dahl.png",
-				"description": "A White wine from Middle Loire, Loire Valley, France. Made from Sauvignon Blanc. This wine has 65 mentions of citrus notes (citrus, lime).",
-				"rating": 3.9,
-				"ratingAmount": 585
 			}
 		]
 }
